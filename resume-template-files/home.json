@@ -1,0 +1,15 @@
+{
+    "name": "Thomas Lettieri",
+    "title": "Software Engineer",
+    "professionalSummary": "6 years experience using a wide variety of technology with an emphasis on full stack development.",
+    "missionStatement": "I strive to build modular code to effectively streamline software development. Giving back to the community wherever possible.",
+    "links": [{
+        "name": "GitHub",
+        "logoURL": "/images/share-icons/GitHub-Mark-32px.png",
+        "url": "https://github.com/tommy-lettieri"
+    }, {
+        "name": "LinkedIn",
+        "logoURL": "/images/share-icons/LI-In-Bug.png",
+        "url": "https://www.linkedin.com/in/tom-lettieri/"
+    }]
+}
